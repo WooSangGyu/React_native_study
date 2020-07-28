@@ -1,0 +1,12 @@
+{
+  "name": "first_react_native",
+  "displayName": "first_react_native",
+  "expo": {
+    "name": "first_react_native",
+    "slug": "first_react_native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
